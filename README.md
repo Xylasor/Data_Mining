@@ -1,1 +1,2 @@
 # Data_Mining
+The Generalized Sequential Patterns (GSP) algorithm designed by Srikant and Agrawal in 1996 extended the basis Apriori algorithm with the opportunity to use time constraints, sliding window and taxonomies. For example the shop owner may be interested in knowing whether certain products were bought together (in a given order) in a certain amount of time (e.g a month). Unfortunately such scenario is not possible using basis Apriori algorithm since this algorithm is generating all frequent sets families and not frequent sequential pattern. 
